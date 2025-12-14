@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Shadow Ledger System.iml" filepath="$PROJECT_DIR$/.idea/Shadow Ledger System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drift.main.iml" filepath="$PROJECT_DIR$/.idea/modules/drift.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/event-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/event-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadow-ledger-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shadow-ledger-service.main.iml" />
+    </modules>
+  </component>
+</project>
